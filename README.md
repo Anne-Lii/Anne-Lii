@@ -10,11 +10,6 @@ Sharing some of my projects from school — some smaller, some larger, and all p
 
 ## School Projects
 
-**Visingsö Beekeepers Association**  
-_Ongoing final degree project._  
-Fullstack application currently under development, built with ASP.NET Core Web API, SQL Server, and React with TypeScript.  
-Features user authentication, data management, and a responsive frontend.
-
 **Restaurant Etoile**  
 Fullstack project created for the course "Backend-Based Web Development".
 
@@ -29,7 +24,7 @@ The application features dynamic content management, secure user login, and resp
 🛠️ [Backend Repository (API)](https://github.com/Anne-Lii/backend_projekt_api.git)  
 💻 [Frontend Repository](https://github.com/Anne-Lii/backend_projekt_webbplats.git)
 
-**ReefTrack - 
+
 
 ## Skills
 **Languages:** C#, JavaScript, TypeScript, SQL  
