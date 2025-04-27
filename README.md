@@ -2,19 +2,34 @@
 Fullstack Developer with a Backend Focus
 
 ## About Me
-I'm a passionate fullstack developer with a strong focus on backend development, databases, and APIs.  
-Currently studying Web Development at Mid Sweden University, graduating in June 2025.
+I'm a fullstack developer with a strong focus on backend development, databases, and APIs.  
+Studying for a Higher Education Diploma in Computer Science with a specialization in Web Development at Mid Sweden University. 
+Graduating in June 2025.
 
-I love building scalable and efficient backend solutions, designing APIs, and working with modern frontend frameworks when needed.
+Sharing some of my projects from school — some smaller, some larger, and all part of my development journey.
 
-## Recent Projects
+## School Projects
+
 **Visingsö Beekeepers Association**  
-Fullstack application built with ASP.NET Core Web API, SQL Server, and React with TypeScript.  
+_Ongoing final degree project._  
+Fullstack application currently under development, built with ASP.NET Core Web API, SQL Server, and React with TypeScript.  
 Features user authentication, data management, and a responsive frontend.
 
-**Bookify**  
-React application connected to Google Books API and a custom Node.js/Express backend.  
-Includes user authentication, book reviews, and API integrations.
+**Restaurant Etoile**  
+Fullstack project created for the course "Backend-Based Web Development".
+
+The goal was to build a company presentation website for a fictional restaurant, including:  
+- A REST API built with Node.js and Express, secured with JWT authentication.  
+- An admin interface for managing the menu and restaurant information.  
+- A public-facing website consuming the API to display menu and company details.
+
+The application features dynamic content management, secure user login, and responsive design.
+
+🔗 [Live Demo](https://anha2314-projekt-backend.netlify.app/)  
+🛠️ [Backend Repository (API)](https://github.com/Anne-Lii/backend_projekt_api.git)  
+💻 [Frontend Repository](https://github.com/Anne-Lii/backend_projekt_webbplats.git)
+
+**ReefTrack - 
 
 ## Skills
 **Languages:** C#, JavaScript, TypeScript, SQL  
@@ -22,8 +37,8 @@ Includes user authentication, book reviews, and API integrations.
 **Databases:** SQL Server, MongoDB  
 **Tools & Platforms:** Git, Azure, Docker, Visual Studio, VS Code
 
-
-- 📫 anneliigesarhansen@gmail.com
+## Contact
+📫 anneliigesarhansen@gmail.com
 
 <!---
 Anne-Lii/Anne-Lii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
