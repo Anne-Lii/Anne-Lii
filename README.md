@@ -10,6 +10,16 @@ Sharing some of my projects from school — some smaller, some larger, and all p
 
 ## School Projects
 
+**Visingsö Beekeepers Association**  
+Ongoing final degree project for the Higher Education Diploma in Web Development.
+
+A fullstack application designed for the beekeeping association of Visingsö island, including:  
+- A REST API built with ASP.NET Core and Entity Framework Core, connected to a SQL Server database.  
+- Role-based authentication and JWT-protected endpoints.  
+- A frontend built with React and TypeScript, featuring a responsive design and secure data management.
+
+Project under active development, scheduled for completion in June 2025.
+
 **Restaurant Etoile**  
 Fullstack project created for the course "Backend-Based Web Development".
 
