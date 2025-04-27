@@ -20,6 +20,8 @@ A fullstack application designed for the beekeeping association of Visingsö isl
 
 Project under active development, scheduled for completion in June 2025.
 
+
+
 **Restaurant Etoile**  
 Fullstack project created for the course "Backend-Based Web Development".
 
@@ -127,14 +129,22 @@ The application features dynamic content management, secure user login, and resp
   </a>
 </p>
 
+
 ## Contact
 
 <p align="left">
   <a href="mailto:anneliigesarhansen@gmail.com" target="_blank">
-    📬 anneliigesarhansen@gmail.com
-  </a><br>
+    <img src="https://img.icons8.com/ios-filled/40/000000/new-post.png" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="mailto:anneliigesarhansen@gmail.com" target="_blank">
+    anneliigesarhansen@gmail.com
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/anne-lii-hansen-397908130/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> LinkedIn/Profile
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anne-lii-hansen-397908130/" target="_blank">
+    LinkedIn Profile
   </a>
 </p>
 
