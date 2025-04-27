@@ -124,7 +124,7 @@ The application features dynamic content management, secure user login, and resp
     📬 anneliigesarhansen@gmail.com
   </a><br>
   <a href="https://www.linkedin.com/in/anne-lii-hansen-397908130/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> LinkedIn/Profile
   </a>
 </p>
 
