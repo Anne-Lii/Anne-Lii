@@ -6,6 +6,14 @@ I'm a fullstack developer with a strong focus on backend development, databases,
 Studying for a Higher Education Diploma in Computer Science with a specialization in Web Development at Mid Sweden University. 
 Graduating in June 2025.
 
+## Explore My GitHub
+
+Feel free to explore my GitHub repositories!  
+Please note that some repositories are smaller assignments from the early stages of my education, 
+while others are larger fullstack projects developed as final projects for various courses.
+
+I am continuously learning and improving, and my more recent projects reflect my current skills and focus areas.
+
 Sharing some of my projects from school — some smaller, some larger, and all part of my development journey.
 
 ## School Projects
