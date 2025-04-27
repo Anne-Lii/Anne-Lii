@@ -118,7 +118,15 @@ The application features dynamic content management, secure user login, and resp
 </p>
 
 ## Contact
-📫 anneliigesarhansen@gmail.com
+
+<p align="left">
+  <a href="mailto:anneliigesarhansen@gmail.com" target="_blank">
+    📬 anneliigesarhansen@gmail.com
+  </a><br>
+  <a href="https://www.linkedin.com/in/anne-lii-hansen-397908130/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 
 <!---
 Anne-Lii/Anne-Lii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
