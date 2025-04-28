@@ -28,6 +28,9 @@ A fullstack application designed for the beekeeping association of Visingsö isl
 
 Project under active development, scheduled for completion in June 2025.
 
+🛠️ [Backend Repository](https://github.com/Anne-Lii/visingsobiodlarna_api.git)  
+💻 [Frontend Repository](https://github.com/Anne-Lii/visingsobiodlarna.git)
+
 
 
 **Restaurant Etoile**  
@@ -44,6 +47,30 @@ The application features dynamic content management, secure user login, and resp
 🛠️ [Backend Repository (API)](https://github.com/Anne-Lii/backend_projekt_api.git)  
 💻 [Frontend Repository](https://github.com/Anne-Lii/backend_projekt_webbplats.git)
 
+
+**Bookify**
+Fullstack project developed for the course "Advanced Frontend Development" at Mid Sweden University.
+
+A web platform for searching books through the Google Books API and writing user reviews.
+The project focuses on modern frontend development using React and TypeScript, combined with a custom-built backend API.
+
+The application's functionality includes:
+
+A search interface connected to the Google Books API.
+Display of search results and detailed views for individual books.
+User management with registration, login, and JWT-based authentication.
+Full CRUD functionality for user reviews (create, read, update, delete).
+Role-based access control and protected API endpoints.
+Responsive design optimized for different screen sizes.
+Robust form validation and error handling for API interactions.
+
+The backend was developed with Node.js using the Hapi.js framework and MongoDB as the database.
+The frontend was built with React, TypeScript, and Axios for API communication.
+The project is currently published and available for testing through the link below.
+
+🔗 [Live Demo](https://anha2324-bookify.netlify.app/)
+🛠️ [Backend repository](https://github.com/Anne-Lii/Bookify_api.git)
+💻 [Frontend Repository](https://github.com/Anne-Lii/bookify.git)
 
 
 ## Languages and Technologies
