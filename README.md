@@ -7,7 +7,7 @@ Studying for a Higher Education Diploma in Computer Science with a specializatio
 Graduating in June 2025.
 
 <p align="left"> 
-  <a href="mailto:anneliigesarhansen@gmail.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/000000/new-post.png" alt="Email" width="40" height="40"/> </a> <a href="mailto:anneliigesarhansen@gmail.com" target="_blank"> anneliigesarhansen@gmail.com </a> 
+  <a href="mailto:anneliigesarhansen@gmail.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/ffffff/new-post.png" alt="Email" width="40" height="40"/> </a> <a href="mailto:anneliigesarhansen@gmail.com" target="_blank"> anneliigesarhansen@gmail.com </a> 
   &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/anne-lii-hansen-397908130/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/anne-lii-hansen-397908130/" target="_blank"> LinkedIn Profile </a> 
 </p>
