@@ -29,6 +29,7 @@ A fullstack application designed for the beekeeping association of Visingsö isl
 Project under active development, scheduled for completion in June 2025.
 
 🛠️ [Backend Repository](https://github.com/Anne-Lii/visingsobiodlarna_api.git)
+
 💻 [Frontend Repository](https://github.com/Anne-Lii/visingsobiodlarna.git)
 
 
@@ -44,7 +45,9 @@ The goal was to build a company presentation website for a fictional restaurant,
 The application features dynamic content management, secure user login, and responsive design.
 
 🔗 [Live Demo](https://anha2314-projekt-backend.netlify.app/)
+
 🛠️ [Backend Repository (API)](https://github.com/Anne-Lii/backend_projekt_api.git)
+
 💻 [Frontend Repository](https://github.com/Anne-Lii/backend_projekt_webbplats.git)
 
 
@@ -69,7 +72,9 @@ The frontend was built with React, TypeScript, and Axios for API communication.
 The project is currently published and available for testing through the link below.
 
 🔗 [Live Demo](https://anha2324-bookify.netlify.app/)
+
 🛠️ [Backend repository](https://github.com/Anne-Lii/Bookify_api.git)
+
 💻 [Frontend Repository](https://github.com/Anne-Lii/bookify.git)
 
 
