@@ -43,10 +43,9 @@ The goal was to build a company presentation website for a fictional restaurant,
 
 The application features dynamic content management, secure user login, and responsive design.
 
-Public login credentials for testing:
-Username: admin
-
-Password: admin
+Public login credentials for testing:  
+- **Username:** admin  
+- **Password:** admin
 
 super safe =)
 
