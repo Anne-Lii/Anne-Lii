@@ -43,6 +43,13 @@ The goal was to build a company presentation website for a fictional restaurant,
 
 The application features dynamic content management, secure user login, and responsive design.
 
+Public login credentials for testing:
+
+Username: admin
+Password: admin
+
+super safe =)
+
 🔗 [Live Demo](https://anha2314-projekt-backend.netlify.app/)
 
 🛠️ [Backend Repository (API)](https://github.com/Anne-Lii/backend_projekt_api.git)
