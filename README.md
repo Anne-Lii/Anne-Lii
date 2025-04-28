@@ -6,6 +6,12 @@ I'm a fullstack developer with a strong focus on backend development, databases,
 Studying for a Higher Education Diploma in Computer Science with a specialization in Web Development at Mid Sweden University. 
 Graduating in June 2025.
 
+<p align="left"> 
+  <a href="mailto:anneliigesarhansen@gmail.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/000000/new-post.png" alt="Email" width="40" height="40"/> </a> <a href="mailto:anneliigesarhansen@gmail.com" target="_blank"> anneliigesarhansen@gmail.com </a> 
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/anne-lii-hansen-397908130/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/anne-lii-hansen-397908130/" target="_blank"> LinkedIn Profile </a> 
+</p>
+
 ## Explore My GitHub
 
 Feel free to explore my GitHub repositories!  
@@ -161,17 +167,6 @@ The project is currently published and available for testing through the link be
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> 
 </p>
-
-
-## Contact
-
-<p align="left"> 
-  <a href="mailto:anneliigesarhansen@gmail.com" target="_blank"> 
-  <img src="https://img.icons8.com/ios-filled/40/000000/new-post.png" alt="Email" width="40" height="40"/> 
-  </a>
-  &nbsp; <a href="https://www.linkedin.com/in/anne-lii-hansen-397908130/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> 
-</a> </p>
 
 <!---
 Anne-Lii/Anne-Lii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
