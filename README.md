@@ -1,10 +1,16 @@
 # Anne-Lii Gesar Hansen
 Fullstack Developer with a Backend Focus
 
+![Build API](https://github.com/Anne-Lii/visingsobiodlarna_api/actions/workflows/dotnet.yml/badge.svg)
+
+![Deploy Frontend](https://api.netlify.com/api/v1/badges/Anne-Lii/deploy-status)
+
 ## About Me
 I'm a fullstack developer with a strong focus on backend development, databases, and APIs.  
 Studying for a Higher Education Diploma in Computer Science with a specialization in Web Development at Mid Sweden University. 
 Graduating in June 2025.
+
+🎯 I am actively looking for opportunities as a **junior backend developer**.
 
 <p align="left"> 
   <a href="mailto:anneliigesarhansen@gmail.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/ffffff/new-post.png" alt="Email" width="40" height="40"/> </a> <a href="mailto:anneliigesarhansen@gmail.com" target="_blank"> anneliigesarhansen@gmail.com </a> 
@@ -119,7 +125,6 @@ The project is currently published and available for testing through the link be
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </p>
 
 ## Frameworks & Libraries
