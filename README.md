@@ -12,16 +12,6 @@ Graduating in June 2025.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/anne-lii-hansen-397908130/" target="_blank"> LinkedIn Profile </a> 
 </p>
 
-## Explore My GitHub
-
-Feel free to explore my GitHub repositories!  
-Please note that some repositories are smaller assignments from the early stages of my education, 
-while others are larger fullstack projects developed as final projects for various courses.
-
-I am continuously learning and improving, and my more recent projects reflect my current skills and focus areas.
-
-Sharing some of my projects from school — some smaller, some larger, and all part of my development journey.
-
 ## School Projects
 
 **Visingsö Beekeepers Association - Ongoing final degree project for the Higher Education Diploma in Web Development.**
@@ -167,6 +157,16 @@ The project is currently published and available for testing through the link be
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> 
 </p>
+
+## Explore My GitHub
+
+Feel free to explore my GitHub repositories!  
+Please note that some repositories are smaller assignments from the early stages of my education, 
+while others are larger fullstack projects developed as final projects for various courses.
+
+I am continuously learning and improving, and my more recent projects reflect my current skills and focus areas.
+
+Sharing some of my projects from school — some smaller, some larger, and all part of my development journey.
 
 <!---
 Anne-Lii/Anne-Lii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
