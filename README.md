@@ -1,10 +1,6 @@
 # Anne-Lii Gesar Hansen
 Fullstack Developer with a Backend Focus
 
-![Build API](https://github.com/Anne-Lii/visingsobiodlarna_api/actions/workflows/dotnet.yml/badge.svg)
-
-![Deploy Frontend](https://api.netlify.com/api/v1/badges/Anne-Lii/deploy-status)
-
 ## About Me
 I'm a fullstack developer with a strong focus on backend development, databases, and APIs.  
 Studying for a Higher Education Diploma in Computer Science with a specialization in Web Development at Mid Sweden University. 
