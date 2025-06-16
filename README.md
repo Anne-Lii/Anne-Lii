@@ -1,10 +1,11 @@
 # Anne-Lii Gesar Hansen
 Fullstack Developer with a Backend Focus
+
 🎓 Higher Education Diploma in Web Development, Mid Sweden University (2023–2025)
 
 ## About Me
 I'm a fullstack developer with a strong focus on backend development, databases, and APIs.  
-SGraduated with a Higher Education Diploma in Computer Science with a specialization in Web Development at Mid Sweden University. 
+Graduated with a Higher Education Diploma in Computer Science with a specialization in Web Development at Mid Sweden University. 
 
 ## What I Learned
 * Fullstack development with React, Vue, Node.js, ASP.NET, and REST APIs
