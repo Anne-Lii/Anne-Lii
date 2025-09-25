@@ -170,11 +170,6 @@ The project is currently published and available for testing through the link be
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> 
 </p>
 
-## Explore My GitHub
-
-Feel free to explore my GitHub repositories!  
-Please note that some repositories are smaller assignments from the early stages of my education, 
-while others are larger fullstack projects developed as final projects for various courses.
 
 I am continuously learning and improving, and my more recent projects reflect my current skills and focus areas.
 
