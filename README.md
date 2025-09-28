@@ -3,6 +3,8 @@ Fullstack Developer with a Backend Focus
 
 🎓 Higher Education Diploma in Web Development, Mid Sweden University (2023–2025)
 
+I am actively looking for opportunities as a **junior backend developer**.
+
 ## About Me
 I'm a fullstack developer with a strong focus on backend development, databases, and APIs.  
 Graduated with a Higher Education Diploma in Computer Science with a specialization in Web Development at Mid Sweden University. 
@@ -15,8 +17,6 @@ Graduated with a Higher Education Diploma in Computer Science with a specializat
 * Secure API design with JWT and protected endpoints
 * Version control and agile workflows using Git and GitHub
 * Project planning and documentation
-
-🎯 I am actively looking for opportunities as a **junior backend developer**.
 
 <p align="left"> 
   <a href="mailto:anneliigesarhansen@gmail.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/ffffff/new-post.png" alt="Email" width="40" height="40"/> </a> <a href="mailto:anneliigesarhansen@gmail.com" target="_blank"> anneliigesarhansen@gmail.com </a> 
