@@ -49,11 +49,7 @@ The goal was to build a company presentation website for a fictional restaurant,
 
 The application features dynamic content management, secure user login, and responsive design.
 
-Public login credentials for testing:  
-- **Username:** admin  
-- **Password:** admin
-
-super safe =)
+ login credentials for testing upon request
 
 🔗 [Live Demo](https://anha2314-projekt-backend.netlify.app/)
 
@@ -168,11 +164,6 @@ The project is currently published and available for testing through the link be
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> 
 </p>
-
-
-I am continuously learning and improving, and my more recent projects reflect my current skills and focus areas.
-
-Sharing some of my projects from school — some smaller, some larger, and all part of my development journey.
 
 <!---
 Anne-Lii/Anne-Lii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
