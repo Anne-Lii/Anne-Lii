@@ -13,29 +13,29 @@ I worked 9 years as a Quality Control Specialist in the health industry, where I
 This background has shaped my attention to details, structured way of working, and focusing on secure and reliable systems. 
 
 ## What I work with
-### 🔧 Backend & APIs
-- C#/.NET 8 (Web API, Entity Framework Core, ASP.NET Identity)
-- Node.js (Express, Hapi.js, Koa)
+### Backend & APIs
+- C#/.NET 8 and 9 (Web API, Entity Framework Core, ASP.NET Identity)
+- Node.js (Express, Hapi.js)
 - REST API design, validation & secure JWT authentication  
 - Blob Storage, Azure SQL, migrations, retries, resilience
 
-### ⚛️ Frontend
-- React (TypeScript, Hooks, Axios)
-- Vue.js (SPA architecture)
+### Frontend
+- React 
+- Vue.js 
 - Responsive design, form validation, accessibility (WCAG)
 - State management & component-driven architecture
 
-### ☁️ Cloud & DevOps  
-- **GitHub Actions CI/CD** (fullstack multi-step pipelines)  
-- **Azure App Service deployments via OIDC**  
+### Cloud & DevOps  
+- GitHub Actions CI/CD 
+- Azure App Service deployments via OIDC  
 - Static assets + API under same app service  
 - Environment variables, secrets, staging/production  
 - Azure Blob Storage, Azure SQL, Azure Portal management
 
-### 🗄️ Databases  
-SQL Server • MongoDB • PostgreSQL • MySQL • SQLite  
+### Databases  
+SQL Server • MongoDB • PostgreSQL • MySQL • SQLite • MariaDB
 
-### 🧪 Other tools  
+### Other tools  
 Git • Docker • Swagger • Postman • Figma • Adobe Illustrator  
 
 <p align="left"> 
