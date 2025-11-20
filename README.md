@@ -10,16 +10,33 @@ I am a fullstack developer with a strong passion for backend development.
 Graduated with a Higher Education Diploma in Computer Science with a specialization in Web Development at Mid Sweden University.
 
 I worked 9 years as a Quality Control Specialist in the health industry, where I gained deep experience in GMP, traceability, documentation, safety, and quality assurance. 
-This background has shaped my attention to details, structured way of working, and focusing on secure and reliable systems.
+This background has shaped my attention to details, structured way of working, and focusing on secure and reliable systems. 
 
-## What I Learned
-* Fullstack development with React, Vue, Node.js, ASP.NET, and REST APIs
-* Frontend architecture, form validation, accessibility and responsive design
-* Backend development in C#/.NET and Node.js with role-based authentication
-* SQL and NoSQL databases: SQL Server, PostgreSQL, MongoDB
-* Secure API design with JWT and protected endpoints
-* Version control and agile workflows using Git and GitHub
-* Project planning and documentation
+## What I work with
+### 🔧 Backend & APIs
+- C#/.NET 8 (Web API, Entity Framework Core, ASP.NET Identity)
+- Node.js (Express, Hapi.js, Koa)
+- REST API design, validation & secure JWT authentication  
+- Blob Storage, Azure SQL, migrations, retries, resilience
+
+### ⚛️ Frontend
+- React (TypeScript, Hooks, Axios)
+- Vue.js (SPA architecture)
+- Responsive design, form validation, accessibility (WCAG)
+- State management & component-driven architecture
+
+### ☁️ Cloud & DevOps  
+- **GitHub Actions CI/CD** (fullstack multi-step pipelines)  
+- **Azure App Service deployments via OIDC**  
+- Static assets + API under same app service  
+- Environment variables, secrets, staging/production  
+- Azure Blob Storage, Azure SQL, Azure Portal management
+
+### 🗄️ Databases  
+SQL Server • MongoDB • PostgreSQL • MySQL • SQLite  
+
+### 🧪 Other tools  
+Git • Docker • Swagger • Postman • Figma • Adobe Illustrator  
 
 <p align="left"> 
   <a href="mailto:anneliigesarhansen@gmail.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/ffffff/new-post.png" alt="Email" width="40" height="40"/> </a> <a href="mailto:anneliigesarhansen@gmail.com" target="_blank"> anneliigesarhansen@gmail.com </a> 
@@ -27,14 +44,36 @@ This background has shaped my attention to details, structured way of working, a
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/anne-lii-hansen-397908130/" target="_blank"> LinkedIn Profile </a> 
 </p>
 
-## School Projects
+## Projects
 
-**Visingsö Beekeepers Association - final degree project for the Higher Education Diploma in Web Development.**
+**Visingsö Beekeepers Association - fullstack platform**
 
-A fullstack application designed for the beekeeping association of Visingsö island, including:  
-- A REST API built with ASP.NET Core and Entity Framework Core, connected to a SQL Server database.  
-- Role-based authentication and JWT-protected endpoints.  
-- A frontend built with React and TypeScript, featuring a responsive design and secure data management.
+A production-ready fullstack system built for the beekeeping association on Visingsö island.
+The application is fully cloud-hosted with automated CI/CD, modern security patterns and a scalable architecture.
+
+Backend – ASP.NET Core 8
+
+ASP.NET Identity for authentication & role management
+JWT with HttpOnly cookies and role-based authorization
+Entity Framework Core connected to Azure SQL
+Azure Blob Storage for document and file uploads
+Clean architecture using controllers, DTOs and services
+Custom validation and robust error handling
+
+Frontend – React + TypeScript
+
+Protected routes & role-based UI (member/admin)
+Centralized API management with Axios
+Form validation, modals and responsive UI design
+Built and deployed together with the backend inside the same Azure App Service
+
+Cloud & DevOps
+
+Azure App Service
+Azure SQL Database
+Azure Blob Storage
+DevOps & CI/CD – GitHub Actions
+
 
 🛠️ [Backend Repository](https://github.com/Anne-Lii/visingsobiodlarna_api.git)
 
