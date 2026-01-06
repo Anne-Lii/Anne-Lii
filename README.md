@@ -6,10 +6,10 @@ Fullstack Developer with a Backend Focus
 I am actively looking for opportunities as a **junior backend developer**.
 
 ## About Me
-I am a fullstack developer with a strong passion for backend development.
+I am a fullstack developer with a strong interest for backend development.
 Graduated with a Higher Education Diploma in Computer Science with a specialization in Web Development at Mid Sweden University.
 
-I worked 9 years as a Quality Control Specialist in the health industry, where I gained deep experience in GMP, traceability, documentation, safety, and quality assurance. 
+I worked 10 years as a Quality Control Specialist in the health industry, where I gained deep experience in GMP, traceability, documentation, safety, and quality assurance. 
 This background has shaped my attention to details, structured way of working, and focusing on secure and reliable systems. 
 
 ## What I work with
