@@ -84,7 +84,7 @@ Automated CI/CD build validation, API testing, and accessibility testing (WCAG).
 
 🔗 [Live Site](https://visingsobiodlarna-api.azurewebsites.net/)
 
----
+## School projects
 
 **Restaurant Etoile**  
 Fullstack project created for the course "Backend-Based Web Development".
@@ -107,7 +107,7 @@ The application features dynamic content management, secure user login, and resp
 ---
 
 **Tropic Reef**
-Fullstack project developed for the course "Fullstack Development with Frameworks" at Mid Sweden University.
+Early fullstack project developed for the course "Fullstack Development with Frameworks" at Mid Sweden University.
 
 A warehouse management system for a fictional company selling tropical aquarium products.
 The project involved creating both a RESTful API and a client-side application with modern frameworks and best practices.
@@ -136,7 +136,7 @@ However, the GitHub repositories are private and accessible only to instructors 
 
 **Bookify**
 
-Fullstack project developed for the course "Advanced Frontend Development" at Mid Sweden University.
+Early fullstack project developed for the course "Advanced Frontend Development" at Mid Sweden University.
 
 A web platform for searching books through the Google Books API and writing user reviews.
 The project focuses on modern frontend development using React and TypeScript, combined with a custom-built backend API.
