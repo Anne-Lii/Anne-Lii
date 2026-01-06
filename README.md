@@ -75,14 +75,14 @@ Azure Blob Storage
 DevOps & CI/CD – GitHub Actions
 
 Quality & Testing
-CI/CD build validation
-API testing
-Accessibility testing (WCAG).
+Automated CI/CD build validation, API testing, and accessibility testing (WCAG).
 
 
 🛠️ [Backend Repository](https://github.com/Anne-Lii/visingsobiodlarna_api.git)
 
 💻 [Frontend Repository](https://github.com/Anne-Lii/visingsobiodlarna.git)
+
+🔗 [Live Site](https://visingsobiodlarna-api.azurewebsites.net/)
 
 ---
 
