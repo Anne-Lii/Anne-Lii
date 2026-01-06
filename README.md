@@ -74,6 +74,11 @@ Azure SQL Database
 Azure Blob Storage
 DevOps & CI/CD – GitHub Actions
 
+Quality & Testing
+CI/CD build validation
+API testing
+Accessibility testing (WCAG).
+
 
 🛠️ [Backend Repository](https://github.com/Anne-Lii/visingsobiodlarna_api.git)
 
