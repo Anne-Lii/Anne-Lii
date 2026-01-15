@@ -5,7 +5,7 @@ Fullstack Developer with a Backend Focus
 
 I am actively looking for opportunities as a **junior backend developer**.
 
-
+<br><br>
 ## About Me
 I am a fullstack developer with a strong interest for backend development.
 Graduated with a Higher Education Diploma in Computer Science with a specialization in Web Development at Mid Sweden University.
