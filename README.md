@@ -9,7 +9,7 @@ I am actively looking for opportunities as a **junior backend developer**.
 I am a fullstack developer with a strong interest for backend development.
 Graduated with a Higher Education Diploma in Computer Science with a specialization in Web Development at Mid Sweden University.
 
-I worked 10 years as a Quality Control Specialist in the health industry, where I gained deep experience in GMP, traceability, documentation, safety, and quality assurance. 
+I worked for over 10 years as a Quality Control Specialist in the health industry, where I gained deep experience in GMP, traceability, documentation, safety, and quality assurance. 
 This background has shaped my attention to details, structured way of working, and focusing on secure and reliable systems. 
 
 ## What I work with
@@ -101,12 +101,7 @@ The goal was to build a company presentation website for a fictional restaurant,
 
 The application features dynamic content management, secure user login, and responsive design.
 
- login credentials for testing upon request
-
-🔗 [Live Demo](https://anha2314-projekt-backend.netlify.app/)
-
 🛠️ [Backend Repository (API)](https://github.com/Anne-Lii/backend_projekt_api.git)
-
 💻 [Frontend Repository](https://github.com/Anne-Lii/backend_projekt_webbplats.git)
 
 ---
@@ -118,24 +113,14 @@ A warehouse management system for a fictional company selling tropical aquarium 
 The project involved creating both a RESTful API and a client-side application with modern frameworks and best practices.
 
 The application's functionality includes:
-
 A REST API built with Koa.js and a relational database.
 User authentication with JWT tokens (registration and login).
 CRUD operations for managing product inventory (add, edit, delete products and adjust stock levels).
 A responsive single-page application (SPA) built with Vue.js and styled using a CSS framework.
 Secure and user-friendly design tailored for both desktop and mobile users.
 
-The backend API and the client application were hosted separately, and the frontend was deployed on Netlify.
-
-Public login credentials for testing:
-- **Email:** user@tropicreef.se
-- **Password:** passwordUser2025
-
-🔗 [Live Demo](https://tropic-reef.netlify.app)
-
 **Note:**
-The client application is publicly available for testing.
-However, the GitHub repositories are private and accessible only to instructors as part of a GitHub Classroom assignment.
+The GitHub repositories are private and accessible only to instructors as part of a GitHub Classroom assignment.
 
 ---
 
@@ -147,23 +132,18 @@ A web platform for searching books through the Google Books API and writing user
 The project focuses on modern frontend development using React and TypeScript, combined with a custom-built backend API.
 
 The application's functionality includes:
-
 A search interface connected to the Google Books API.
 Display of search results and detailed views for individual books.
 User management with registration, login, and JWT-based authentication.
-Full CRUD functionality for user reviews (create, read, update, delete).
+Full CRUD functionality for user reviews.
 Role-based access control and protected API endpoints.
 Responsive design optimized for different screen sizes.
 Robust form validation and error handling for API interactions.
 
 The backend was developed with Node.js using the Hapi.js framework and MongoDB as the database.
 The frontend was built with React, TypeScript, and Axios for API communication.
-The project is currently published and available for testing through the link below.
-
-🔗 [Live Demo](https://anha2324-bookify.netlify.app/)
 
 🛠️ [Backend repository](https://github.com/Anne-Lii/Bookify_api.git)
-
 💻 [Frontend Repository](https://github.com/Anne-Lii/bookify.git)
 
 ---
