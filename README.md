@@ -131,7 +131,6 @@ The GitHub repositories are private and accessible only to instructors as part o
 ---
 
 **Bookify**<br>
-
 Early fullstack project developed for the course "Advanced Frontend Development" at Mid Sweden University.
 
 A web platform for searching books through the Google Books API and writing user reviews.
