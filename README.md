@@ -5,12 +5,14 @@ Fullstack Developer with a Backend Focus
 
 I am actively looking for opportunities as a **junior backend developer**.
 
+
 ## About Me
 I am a fullstack developer with a strong interest for backend development.
 Graduated with a Higher Education Diploma in Computer Science with a specialization in Web Development at Mid Sweden University.
 
 I worked for over 10 years as a Quality Control Specialist in the health industry, where I gained deep experience in GMP, traceability, documentation, safety, and quality assurance. 
 This background has shaped my attention to details, structured way of working, and focusing on secure and reliable systems. 
+
 
 ## What I work with
 ### Backend & APIs
@@ -43,6 +45,7 @@ Git • Docker • Swagger • Postman • Figma • Adobe Illustrator
   &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/anne-lii-hansen-397908130/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/anne-lii-hansen-397908130/" target="_blank"> LinkedIn Profile </a> 
 </p>
+
 
 ## Projects
 
@@ -89,6 +92,7 @@ The application is fully cloud-hosted with automated CI/CD, modern security patt
 💻 [Frontend Repository](https://github.com/Anne-Lii/visingsobiodlarna.git)
 
 🔗 [Live Site](https://visingsobiodlarna-api.azurewebsites.net/)
+
 
 
 ## School projects
@@ -149,6 +153,7 @@ The frontend was built with React, TypeScript, and Axios for API communication.
 💻 [Frontend Repository](https://github.com/Anne-Lii/bookify.git)
 
 ---
+
 
 ## Languages and Technologies
 
