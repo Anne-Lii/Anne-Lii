@@ -13,7 +13,7 @@ Graduated with a Higher Education Diploma in Computer Science with a specializat
 I worked for over 10 years as a Quality Control Specialist in the health industry, where I gained deep experience in GMP, traceability, documentation, safety, and quality assurance. 
 This background has shaped my attention to details, structured way of working, and focusing on secure and reliable systems. 
 
-
+<br><br>
 ## What I work with
 ### Backend & APIs
 - C#/.NET 8 and 9 (Web API, Entity Framework Core, ASP.NET Identity)
@@ -46,7 +46,7 @@ Git • Docker • Swagger • Postman • Figma • Adobe Illustrator
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/anne-lii-hansen-397908130/" target="_blank"> LinkedIn Profile </a> 
 </p>
 
-
+<br><br>
 ## Projects
 
 ### Visingsö Beekeepers Association - fullstack platform
@@ -94,7 +94,7 @@ The application is fully cloud-hosted with automated CI/CD, modern security patt
 🔗 [Live Site](https://visingsobiodlarna-api.azurewebsites.net/)
 
 
-
+<br><br>
 ## School projects
 
 **Restaurant Etoile**  
@@ -154,7 +154,7 @@ The frontend was built with React, TypeScript, and Axios for API communication.
 
 ---
 
-
+<br><br>
 ## Languages and Technologies
 
 <p align="left">
