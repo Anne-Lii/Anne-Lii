@@ -74,6 +74,7 @@ The application is fully cloud-hosted with automated CI/CD, modern security patt
 - Azure Blob Storage
 - CI/CD pipelines with GitHub Actions
 - Secrets management & secure configuration
+- Environment-based configuration (development / production)
 
 **Quality, Testing & Documentation**
 
@@ -81,6 +82,7 @@ The application is fully cloud-hosted with automated CI/CD, modern security patt
 - Automated CI/CD build validation
 - API testing
 - Accessibility testing (WCAG)
+- Strong focus on validation, predictable error handling and maintainability
 
 🛠️ [Backend Repository](https://github.com/Anne-Lii/visingsobiodlarna_api.git)
 
