@@ -72,17 +72,22 @@ Cloud & DevOps
 Azure App Service
 Azure SQL Database
 Azure Blob Storage
-DevOps & CI/CD – GitHub Actions
+CI/CD pipelines with GitHub Actions
+Secrets management & secure configuration
 
-Quality & Testing
-Automated CI/CD build validation, API testing, and accessibility testing (WCAG).
+Quality, Testing & Documentation
 
+Swagger / OpenAPI for API documentation and interactive testing
+Automated CI/CD build validation
+API testing
+Accessibility testing (WCAG)
 
 🛠️ [Backend Repository](https://github.com/Anne-Lii/visingsobiodlarna_api.git)
 
 💻 [Frontend Repository](https://github.com/Anne-Lii/visingsobiodlarna.git)
 
 🔗 [Live Site](https://visingsobiodlarna-api.azurewebsites.net/)
+
 
 ## School projects
 
