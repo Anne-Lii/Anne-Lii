@@ -97,7 +97,7 @@ The application is fully cloud-hosted with automated CI/CD, modern security patt
 <br><br>
 ## School projects
 
-**Restaurant Etoile**  
+**Restaurant Etoile**  <br>
 Fullstack project created for the course "Backend-Based Web Development".
 
 The goal was to build a company presentation website for a fictional restaurant, including:  
@@ -112,7 +112,7 @@ The application features dynamic content management, secure user login, and resp
 
 ---
 
-**Tropic Reef**
+**Tropic Reef**<br>
 Early fullstack project developed for the course "Fullstack Development with Frameworks" at Mid Sweden University.
 
 A warehouse management system for a fictional company selling tropical aquarium products.
@@ -130,7 +130,7 @@ The GitHub repositories are private and accessible only to instructors as part o
 
 ---
 
-**Bookify**
+**Bookify**<br>
 
 Early fullstack project developed for the course "Advanced Frontend Development" at Mid Sweden University.
 
