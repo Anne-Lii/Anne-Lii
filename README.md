@@ -46,12 +46,12 @@ Git • Docker • Swagger • Postman • Figma • Adobe Illustrator
 
 ## Projects
 
-**Visingsö Beekeepers Association - fullstack platform**
+### Visingsö Beekeepers Association - fullstack platform
 
 A production-ready fullstack system built for the beekeeping association on Visingsö island.
 The application is fully cloud-hosted with automated CI/CD, modern security patterns and a scalable architecture.
 
-Backend – ASP.NET Core 8
+**Backend – ASP.NET Core 8**
 
 ASP.NET Identity for authentication & role management
 JWT with HttpOnly cookies and role-based authorization
@@ -60,14 +60,14 @@ Azure Blob Storage for document and file uploads
 Clean architecture using controllers, DTOs and services
 Custom validation and robust error handling
 
-Frontend – React + TypeScript
+**Frontend – React + TypeScript**
 
 Protected routes & role-based UI (member/admin)
 Centralized API management with Axios
 Form validation, modals and responsive UI design
 Built and deployed together with the backend inside the same Azure App Service
 
-Cloud & DevOps
+**Cloud & DevOps**
 
 Azure App Service
 Azure SQL Database
@@ -75,7 +75,7 @@ Azure Blob Storage
 CI/CD pipelines with GitHub Actions
 Secrets management & secure configuration
 
-Quality, Testing & Documentation
+**Quality, Testing & Documentation**
 
 Swagger / OpenAPI for API documentation and interactive testing
 Automated CI/CD build validation
