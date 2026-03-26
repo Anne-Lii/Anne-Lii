@@ -3,7 +3,7 @@ Backend Developer (.NET, Azure) with Fullstack Experience
 
 Higher Education Diploma in Web Development, Mid Sweden University (2023–2025)
 
-I am actively looking for opportunities as a **junior backend developer**.
+I am looking for backend or fullstack opportunities where I can contribute with .NET, Azure and production experience
 
 <br><br>
 ## About Me
