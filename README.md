@@ -1,7 +1,7 @@
 # Anne-Lii Gesar Hansen
-Fullstack Developer with a Backend Focus
+Backend Developer (.NET, Azure) with Fullstack Experience
 
-🎓 Higher Education Diploma in Web Development, Mid Sweden University (2023–2025)
+Higher Education Diploma in Web Development, Mid Sweden University (2023–2025)
 
 I am actively looking for opportunities as a **junior backend developer**.
 
@@ -51,8 +51,7 @@ Git • Docker • Swagger • Postman • Figma • Adobe Illustrator
 
 ### Visingsö Beekeepers Association - fullstack platform
 
-A production-ready fullstack system built for the beekeeping association on Visingsö island.
-The application is fully cloud-hosted with automated CI/CD, modern security patterns and a scalable architecture.
+Built and deployed a production-ready fullstack system used by a real beekeeping association. The platform handles authentication, role-based access, data management and reporting, and is fully hosted in Azure with CI/CD pipelines.
 
 **Backend – ASP.NET Core 8**
 
