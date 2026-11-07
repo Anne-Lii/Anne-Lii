@@ -11,7 +11,6 @@ Graduated with a Higher Education Diploma in Computer Science with a specializat
 I worked for over 10 years as a Quality Control Specialist in the health industry, where I gained deep experience in GMP, traceability, documentation, safety, and quality assurance. 
 This background has shaped my attention to details, structured way of working, and focusing on secure and reliable systems. 
 
-<br><br>
 ## What I work with
 ### Backend & APIs
 - C#/.NET 8 and 9 (Web API, Entity Framework Core, ASP.NET Identity)
