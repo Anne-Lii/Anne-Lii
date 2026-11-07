@@ -1,11 +1,9 @@
 # Anne-Lii Gesar Hansen
-Backend Developer (.NET, Azure) with Fullstack Experience
-
-Higher Education Diploma in Web Development, Mid Sweden University (2023–2025)
-
+Backend Developer (.NET, Azure) with Fullstack Experience.
+Higher Education Diploma in Web Development, Mid Sweden University (2023–2025).
 I am looking for backend or fullstack opportunities where I can contribute with .NET, Azure and production experience
 
-<br><br>
+<br>
 ## About Me
 I am a fullstack developer with a strong interest for backend development.
 Graduated with a Higher Education Diploma in Computer Science with a specialization in Web Development at Mid Sweden University.
